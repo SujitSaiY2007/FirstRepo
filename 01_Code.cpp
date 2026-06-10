@@ -2,7 +2,7 @@
 using namespace std;
 
 void displayGreeting() {
-    cout << "Hello, GitHub World!" << endl;
+    cout << "Hello, Humans!" << endl;
     cout << "Learning Pull Requests today." << endl;
 }
 
