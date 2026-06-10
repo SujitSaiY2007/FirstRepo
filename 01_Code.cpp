@@ -1,8 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
-    cout<<"Hello Git!!";
+void displayGreeting() {
+    cout << "Hello, GitHub World!" << endl;
+    cout << "Learning Pull Requests today." << endl;
+}
+
+int main() {
+    displayGreeting();
     return 0;
 }
